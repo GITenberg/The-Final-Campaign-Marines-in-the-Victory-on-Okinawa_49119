@@ -1,4 +1,8 @@
 _repo: The-Final-Campaign-Marines-in-the-Victory-on-Okinawa_49119
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49119-h/images/cover.jpg
 creator:
   author:
     agent_name: Alexander, Joseph H.
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44993'
     url: http://www.gutenberg.org/2009/agents/44993
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49119#The-Final-Campaign-Marines-in-the-Victory-on-Okinawa
 gutenberg_issued: '2015-06-03'
 gutenberg_type: Text
 identifiers:
